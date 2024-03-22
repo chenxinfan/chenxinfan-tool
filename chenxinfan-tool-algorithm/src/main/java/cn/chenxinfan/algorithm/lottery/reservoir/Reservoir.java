@@ -19,7 +19,7 @@ import java.util.Random;
 public class Reservoir<T> {
 
     /**
-     * 终奖个数
+     * 中奖个数
      */
     private int num;
 
